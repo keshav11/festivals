@@ -1,4 +1,5 @@
 # Festivals
+Twitter bot that wishes you on festivals
 
 ## Usage
 <pre>
